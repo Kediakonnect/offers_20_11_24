@@ -1,0 +1,25 @@
+[
+  {
+    "state": {
+      "id": "6700216bbc41b4b5d10d66c8",
+      "name": "Great Nicobar",
+      "area_code": 356035918
+    },
+    "districts": [
+      {
+        "district": {
+          "id": "6700216bbc41b4b5d10d66c8",
+          "name": "Great Nicobar",
+          "area_code": 356035918
+        },
+        "taluakas": [
+          {
+            "id": "6700216bbc41b4b5d10d66c8",
+            "name": "Great Nicobar",
+            "area_code": 356035918
+          }
+        ]
+      }
+    ]
+  }
+]
